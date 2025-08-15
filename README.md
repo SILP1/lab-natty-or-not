@@ -32,8 +32,8 @@ IA Generativa PICTORY geração de video e sintetização de voz;
 
 
 
-### Exemplos e Insigths
-- (https://youtu.be/9nsSjjZTSyE)
+### VIDEO 
+(https://youtu.be/9nsSjjZTSyE)
 
 ## Links Interessantes
 
