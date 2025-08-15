@@ -33,7 +33,7 @@ IA Generativa PICTORY geração de video e sintetização de voz;
 
 
 ### Exemplos e Insigths
-- [Vídeo (Avatar Virtual)](/[exemplos/VIDEO.md](https://youtu.be/9nsSjjZTSyE))
+- (https://youtu.be/9nsSjjZTSyE))
 
 ## Links Interessantes
 
